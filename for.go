@@ -33,4 +33,4 @@ func main() {
 	for _, name := range names {
 		fmt.Println(name)
 	}
-}
+} 
