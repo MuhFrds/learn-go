@@ -23,5 +23,4 @@ func main() {
 	numbers := []int {10 ,10, 10, 10}
 	fmt.Println(sumAll(numbers...))
 
-
 }
