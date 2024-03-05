@@ -29,6 +29,7 @@ func (animal Animal) GetName() string {
 func main() {
 	person := Person{Name: "Eko"}
 	SayHello(person)
+	
 	animal := Animal{Name: "Kucing"}
 	SayHello(animal)
 
